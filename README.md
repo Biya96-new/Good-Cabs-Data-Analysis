@@ -1,5 +1,3 @@
-# Project Overview:
-Goodcabs, a cab service company established two years ago , has gained  a strong foothold in the Indian Market by focusing on tier-2 cities. With operations in 10 tier-2 cities across India, Goodcabs has set ambitious performance target for 2024 to drive growth and improve passenger satisfaction. As a part of this initiative, the Goodcabs management team aims to assess the company’s performance across the key metrics.
 
 - [Project Overview](#project-overview)
 - [Business Problems Addressed](#business-problem-addressed)
@@ -45,11 +43,11 @@ The dataset was provided from code basics.
 
 ## Key Insights
 ### Business-Focused Cities (e.g., Surat, Lucknow, Coimbatore, Mysore, Vadodara)
--Surat has the highest repeat passenger rate (42.63%), indicating strong loyalty among business commuters.
--Lucknow follows closely with 37.12% RPR, showing repeat travel patterns, likely due to regular business routes.
--Trip volumes are high in Lucknow (~60K+) with consistent monthly demand—ideal for optimizing driver allocation.
--Coimbatore & Mysore show low trip volume and low RPR, suggesting these smaller business hubs may need marketing or service expansion.
--Vadodara has steady trips and moderate fare levels, maintaining a balance between affordability and usage.
+1.Surat has the highest repeat passenger rate (42.63%), indicating strong loyalty among business commuters.
+2.Lucknow follows closely with 37.12% RPR, showing repeat travel patterns, likely due to regular business routes.
+3.Trip volumes are high in Lucknow (~60K+) with consistent monthly demand—ideal for optimizing driver allocation.
+4.Coimbatore & Mysore show low trip volume and low RPR, suggesting these smaller business hubs may need marketing or service expansion.
+5.Vadodara has steady trips and moderate fare levels, maintaining a balance between affordability and usage.
 ### Tourism-Focused Cities (e.g., Jaipur, Kochi, Chandigarh, Visakhapatnam)
 -Jaipur leads in total trips (77K), reflecting its popularity as a tourist hub, but has the lowest RPR (17.43%) – tourists are less likely to be repeat users.
 -Kochi shows balanced performance in trips, ratings, and weekend demand – aligns with its seasonal tourism appeal.
