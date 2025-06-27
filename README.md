@@ -43,17 +43,17 @@ The dataset was provided from code basics.
 
 ## Key Insights
 ### Business-Focused Cities (e.g., Surat, Lucknow, Coimbatore, Mysore, Vadodara)
-1.Surat has the highest repeat passenger rate (42.63%), indicating strong loyalty among business commuters.
-2.Lucknow follows closely with 37.12% RPR, showing repeat travel patterns, likely due to regular business routes.
-3.Trip volumes are high in Lucknow (~60K+) with consistent monthly demand—ideal for optimizing driver allocation.
-4.Coimbatore & Mysore show low trip volume and low RPR, suggesting these smaller business hubs may need marketing or service expansion.
-5.Vadodara has steady trips and moderate fare levels, maintaining a balance between affordability and usage.
+- Surat has the highest repeat passenger rate (42.63%), indicating strong loyalty among business commuters.
+- Lucknow follows closely with 37.12% RPR, showing repeat travel patterns, likely due to regular business routes.
+- Trip volumes are high in Lucknow (~60K+) with consistent monthly demand—ideal for optimizing driver allocation.
+- Coimbatore & Mysore show low trip volume and low RPR, suggesting these smaller business hubs may need marketing or service expansion.
+- Vadodara has steady trips and moderate fare levels, maintaining a balance between affordability and usage.
 ### Tourism-Focused Cities (e.g., Jaipur, Kochi, Chandigarh, Visakhapatnam)
--Jaipur leads in total trips (77K), reflecting its popularity as a tourist hub, but has the lowest RPR (17.43%) – tourists are less likely to be repeat users.
--Kochi shows balanced performance in trips, ratings, and weekend demand – aligns with its seasonal tourism appeal.
--Chandigarh has steady trip numbers and weekend demand, making it an emerging hybrid city (business + leisure).
--Visakhapatnam has consistently low trips – potential for tourism campaigns or partnerships to drive demand.
--Weekend trip volumes are significantly higher in Jaipur, Kochi, and Chandigarh – ideal for targeted weekend promotions or tourist bundle offers.
+- Jaipur leads in total trips (77K), reflecting its popularity as a tourist hub, but has the lowest RPR (17.43%) – tourists are less likely to be repeat users.
+- Kochi shows balanced performance in trips, ratings, and weekend demand – aligns with its seasonal tourism appeal.
+- Chandigarh has steady trip numbers and weekend demand, making it an emerging hybrid city (business + leisure).
+- Visakhapatnam has consistently low trips – potential for tourism campaigns or partnerships to drive demand.
+- Weekend trip volumes are significantly higher in Jaipur, Kochi, and Chandigarh – ideal for targeted weekend promotions or tourist bundle offers.
 
 ## Recommendations:
 - Focus on cities like Jaipur and Mysore with low repeat passenger rates by introducing loyalty programs and ride credits.
